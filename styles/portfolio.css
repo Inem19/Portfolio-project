@@ -104,7 +104,7 @@ footer .social-links a:hover {
 .hero {
   background: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 
 .hero p {
@@ -185,10 +185,6 @@ footer .social-links a:hover {
   h2 {
     font-size: 44px;
     text-align: center;
-  }
-
-  .hero {
-    padding: 80px 20px;
   }
 
   .content {
